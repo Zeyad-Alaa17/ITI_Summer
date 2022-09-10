@@ -1,7 +1,7 @@
 
 ## Installation
 
-
+download main.py file than install streamlit
 ```bash
 pip install streamlit
 ```
