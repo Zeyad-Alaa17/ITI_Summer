@@ -23,7 +23,7 @@ Lane detection algorithm needs work:
 -shift in viewing angle might cause the algorithm to malfunction
 
 
-(perhaps use deep learning or modify preprocessing pipeline)
+(perhaps use deep learning or modify preprocessing pipeline for better results)
 
 ## Credits
 Zeyad Alaa Eldin Mohamed
